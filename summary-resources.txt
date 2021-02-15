@@ -1,0 +1,42 @@
+Project Summary
+==================
+Steven Newton (newton36@gmail.com) 
+
+ * * *
+ 
+*Map Area*
+
+I chose Montreal as my area of interest because it was a favorite place to visit while growing up in New York. It's a place of good memories and I would like its OpenStreetMap data to be improved in quality. It's also an opportunity to learn some French. For the wrangling, I downloaded the osm file from Mapzen, a site that provides OpenStreetMap data for many major cities. Montreal is the largest city in the Canadian province of Quebec and the second-largest in Canada. French is the city's official language. The city consists of most of the Island of Montreal as well as a few smaller peripheral islands but there is considerable confusion regarding which municipalities constitute the City of Montreal Proper. In 2002, all of the Island of Montreal was merged into the city of Montreal, only for some municipalities to later return to independent cities. In 2011, Montreal proper had a population of 1,649,519 while Greater Montreal had a population of 3,824,221. 
+
+ * * *
+ 
+
+*Resources*
+
+	http://en.wikipedia.org/wiki/Montreal
+
+Using OSM data:
+	https://mapzen.com/blog/metro-extracts-101
+	http://wiki.openstreetmap.org/wiki/OSM_XML
+
+Installing MongoDB on Windows:
+	http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+
+Reading line-delimited JSON from large file:
+	http://stackoverflow.com/a/7795029/671543
+
+Making a utf-8 encoded JSON file in Python 2.7:
+	http://stackoverflow.com/questions/12309269/write-json-data-to-file-in-python
+
+Optimizing script speed with io and cElementTree:
+	http://www.toofishes.net/blog/fast-unicode-decoding-python-27/
+	http://css.dzone.com/articles/processing-xml-python
+
+Fixing "System.OutofMemoryException" in Powershell while using ElementTree:
+	http://forums.udacity.com/questions/100165294/memoryerror-using-iterparse
+	http://blogs.technet.com/b/heyscriptingguy/archive/2013/07/30/learn-how-to-configure-powershell-memory.aspx
+
+
+“I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc. By including this in my file, I understand that I will be expected to explain my work in a video call with a Udacity coach before I can receive my verified certificate.” ~ Steven Newton 
+
+* * *
